@@ -11,13 +11,13 @@ Happy to see you stumble upon my little Github profile!
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C772%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,614 Contributions in the Year 2022
+> 🏆 1,615 Contributions in the Year 2022
  > 
 > 📦 181.6 kB Used in GitHub's Storage 
  > 
@@ -27,6 +27,46 @@ Happy to see you stumble upon my little Github profile!
  > 
 > 🔑 21 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    343 commits    ████████░░░░░░░░░░░░░░░░░   33.2% 
+🌆 Daytime    528 commits    ████████████░░░░░░░░░░░░░   51.11% 
+🌃 Evening    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
+🌙 Night      18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       179 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Tuesday      232 commits    █████░░░░░░░░░░░░░░░░░░░░   22.46% 
+Wednesday    193 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
+Thursday     191 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
+Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Saturday     71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.87% 
+Sunday       46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Rust                     16 mins             ████████████████████████░   98.36% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+
+🔥 Editors: 
+CLion                    16 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    16 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -40,7 +80,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 01:59:45 UTC
+ Last Updated on 06/09/2022 02:02:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
