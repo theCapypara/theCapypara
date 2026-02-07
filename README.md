@@ -7,10 +7,6 @@ Happy to see you stumble upon my little Github profile!
 *I am CTO & Head of Production at <a href="http://tudock.de">Tudock</a>.*
 
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=theCapypara&show_icons=true&title_color=8ea106&text_color=ffffff&icon_color=8ea106&bg_color=2F343F&hide_border=1)
+![My Github Stats](./profile/stats.svg)
 
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@theCapypara&layout=compact&title_color=8ea106&text_color=ffffff&icon_color=8ea106&bg_color=2F343F&hide_border=1)
-
----
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![My WakaTime Stats](./profile/wakatime.svg)
