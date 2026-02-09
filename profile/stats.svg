@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marco K&#246;pcke's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 242, Total Commits  (last year) : 568, Total PRs: 663, Total Issues: 704, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 242, Total Commits  (last year) : 562, Total PRs: 664, Total Issues: 704, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 25.709281859955066;
+        stroke-dashoffset: 25.85467342431688;
       }
     }
   
@@ -169,7 +169,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >568</text>
+      >562</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >663</text>
+      >664</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
