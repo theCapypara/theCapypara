@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marco K&#246;pcke's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 265, Total Commits  (last year) : 548, Total PRs: 697, Total Issues: 713, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 265, Total Commits  (last year) : 548, Total PRs: 697, Total Issues: 713, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="contribs"
-      >20</text>
+      >19</text>
     </g>
   </g>
     </svg>
