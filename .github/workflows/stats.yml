@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&show_icons=true&title_color=8ea106&text_color=ffffff&icon_color=8ea106&bg_color=2F343F&hide_border=1
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatimes card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: wakatime
           options: username=@theCapypara&layout=compact&title_color=8ea106&text_color=ffffff&icon_color=8ea106&bg_color=2F343F&hide_border=1
