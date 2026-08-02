@@ -4,7 +4,6 @@
 My name is Marco (though you also might know me as Capypara).  
 Happy to see you stumble upon my little Github profile!
 
-
 ![My Github Stats](./profile/stats.svg)
 
 ![My WakaTime Stats](./profile/wakatime.svg)
