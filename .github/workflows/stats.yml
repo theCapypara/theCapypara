@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=@theCapypara&layout=compact&title_color=8ea106&text_color=ffffff&icon_color=8ea106&bg_color=2F343F&hide_border=1
+          options: username=theCapypara&layout=compact&title_color=8ea106&text_color=ffffff&icon_color=8ea106&bg_color=2F343F&hide_border=1
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
