@@ -4,8 +4,6 @@
 My name is Marco (though you also might know me as Capypara).  
 Happy to see you stumble upon my little Github profile!
 
-*I am CTO & Head of Production at <a href="http://tudock.de">Tudock</a>.*
-
 
 ![My Github Stats](./profile/stats.svg)
 
