@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marco K&#246;pcke&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 279, Total Commits  (last year) : 581, Total PRs: 729, Total Issues: 720, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 279, Total Commits  (last year) : 590, Total PRs: 730, Total Issues: 721, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 23.71800219443319;
+        stroke-dashoffset: 23.51180156523617;
       }
     }
   
@@ -169,7 +169,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >581</text>
+      >590</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -180,7 +180,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >729</text>
+      >730</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -191,7 +191,7 @@
         x="204.01"
         y="12.5"
         data-testid="issues"
-      >720</text>
+      >721</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -202,7 +202,7 @@
         x="204.01"
         y="12.5"
         data-testid="contribs"
-      >17</text>
+      >18</text>
     </g>
   </g>
     </svg>
